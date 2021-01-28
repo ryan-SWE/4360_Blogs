@@ -2,8 +2,8 @@
 
   Microservice architecture (MSA) is a big presence in the tech industry. Not that they are necessarily used by everyone, 
 but in that they are used heavily by some big players such as Netflix and Amazon. They appear to be here to stay. In 
-March 2019 Tech Analysts Anne Thomas and Aashish Gupta wrote a paper discussing some of the trade-offs of microservices. 
-In this blog I will attempt to summarize the article.
+March 2019 Tech Analysts Anne Thomas and Aashish Gupta wrote a paper, "Innovation Insight for Microservices", discussing 
+some of the trade-offs of microservices. In this blog I will give a brief summary of the article.
 
   First of all, what is a microservice? According to the article, “A microservice is a tightly scoped, strongly 
 encapsulated, loosely coupled, independently deployable and independently scalable application component.” In summary, 
