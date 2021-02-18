@@ -2,7 +2,7 @@
 
 Please visit my wordpress site (http://52.206.165.95/) to see an example of an AWS hosted site.
 
-Screenshots can be found in the a powerpoint presentation[here](OConnor_ryan_HW4.pptx).
+Screenshots can be found in my powerpoint presentation [here](OConnor_ryan_HW4.pptx).
 
 ______________________________________
 
