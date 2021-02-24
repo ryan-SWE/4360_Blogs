@@ -1,4 +1,4 @@
-By Ryan O'Connor
+Author: Ryan O'Connor
 ```
 Option #9: Amazon engineers currently deploy code every 11.7 seconds –explain the Amazon two-pizza team concept 
 and its use of cloud as part of its strategy to move from monolithic server-side applications and massive backend 
